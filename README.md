@@ -1,4 +1,4 @@
-# BRS PDF Suite for Windows
+# PDF Suite for Windows
 
 Free PDF tools for CA offices and small businesses. Everything runs on your own computer: no upload, no account, works offline.
 
@@ -20,4 +20,4 @@ The app checks this page once a day for a newer version (you can switch it off i
 It sends nothing about you or your documents.
 
 ---
-BRS & Associates, Chartered Accountants
+PDF Suite · Bharat Resources Sarvam
